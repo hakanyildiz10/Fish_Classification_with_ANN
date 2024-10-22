@@ -1,1 +1,1 @@
-Bu projede, Global AI Hub tarafından düzenlenen Akbank Derin Öğrenme Bootcamp kapsamında yapay sinir ağları kullanılarak görüntü sınıflandırma işlemi yapılmıştır.  
+In this project, image classification was performed using ANN within the scope of Akbank Deep Learning Bootcamp organized by Global AI Hub. 
